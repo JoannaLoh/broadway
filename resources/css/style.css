@@ -3,3 +3,11 @@ body {
   text-align: center;
   background-color: white;
 }
+#header {
+  background-image: url (resources/images/the-flatiron-building.png);
+  color: white;
+}
+h1 {
+  font-size:70px;
+  font-weight:bold;
+}
